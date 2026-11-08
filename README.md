@@ -102,26 +102,4 @@ Hoặc dùng bộ cài đặt ở `Client/.../installer/` để cài ứng dụn
 4. Nhấn nút nhận dạng, chờ kết quả hiển thị.
 5. Chỉnh sửa văn bản nếu cần và xuất ra file Word.
 
-## Kết quả demo
 
-| Ảnh đầu vào | Văn bản nhận dạng |
-|-------------|-------------------|
-| [Chèn ảnh]  | [Chèn kết quả]    |
-
-Ảnh chụp giao diện: [chèn ảnh vào thư mục `docs/` rồi dán đường dẫn]
-
-## Hạn chế và hướng phát triển
-
-- Độ chính xác giảm với ảnh mờ, nghiêng, thiếu sáng hoặc chữ viết tay
-- Cần chạy Server trước khi dùng Client
-- Hướng phát triển: [hỗ trợ thêm ngôn ngữ, cải thiện tiền xử lý ảnh, triển khai server lên cloud, bản web/mobile...]
-
-## Thành viên thực hiện
-
-| Họ tên | MSSV | Vai trò |
-|--------|------|---------|
-| [Tên]  | [...] | [...]  |
-
-## Giảng viên hướng dẫn
-
-[Tên giảng viên - Môn học - Trường]
