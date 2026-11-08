@@ -1,0 +1,46 @@
+# ===== Visual Studio / .NET (Client) =====
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.pdb
+packages/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# ===== Python (Server) =====
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# ===== Model / weights nặng =====
+weights/
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+*.weights
+*.safetensors
+*.traineddata
+
+# ===== Dữ liệu, log, key =====
+.env
+*.log
+*.db
+*.sqlite3
+uploads/
+output/
+
+# ===== IDE / Hệ điều hành =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
